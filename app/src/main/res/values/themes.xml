@@ -17,5 +17,12 @@
         <item name="backgroundTint">@color/teal</item>
         <item name="android:radius">0dp</item>
     </style>
+    <style name="WelcomeText">
+        <item name="android:textStyle">italic</item>
+        <item name="android:textSize">36dp</item>
+    </style>
+    <style name="WelcomeText1">
+        <item name="android:textSize">18dp</item>
+    </style>
 
 </resources>

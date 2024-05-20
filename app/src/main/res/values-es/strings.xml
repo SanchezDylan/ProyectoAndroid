@@ -3,4 +3,8 @@
     <string name="sign_int_with_google">Iniciar sesion con Google</string>
     <string name="copyright">2024</string>
     <string name="only_uth">Unicamente para estudiantes y personal de UTH</string>
+    <string name="welcome">¡Bienvenido!</string>
+    <string name="welcome1">Descubre una nueva forma de ordenar tu comida favorita.</string>
+    <string name="next">Siguiente</string>
+
 </resources>

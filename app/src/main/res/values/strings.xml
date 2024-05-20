@@ -6,4 +6,8 @@
     <string name="sign_int_with_google">Sign in with Google</string>
     <string name="copyright">2024</string>
     <string name="only_uth">Only for stundents and faculty of UTH</string>
+
+    <string name="welcome">Welcome!</string>
+    <string name="welcome1">Discover a new way to order your favorite food.</string>
+    <string name="next">Next</string>
 </resources>
