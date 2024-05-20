@@ -6,4 +6,16 @@
     </style>
 
     <style name="Theme.Comandas" parent="Base.Theme.Comandas" />
+
+    <style name="small" parent="Theme.Comandas">
+        <item name="android:textAlignment">center</item>
+        <item name="android:textColor">@color/gray</item>
+        <item name="android:textSize">14sp</item>
+    </style>
+
+    <style name="login_button">
+        <item name="backgroundTint">@color/teal</item>
+        <item name="android:radius">0dp</item>
+    </style>
+
 </resources>

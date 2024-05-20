@@ -1,2 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources></resources>
+<resources>
+    <string name="sign_int_with_google">Iniciar sesion con Google</string>
+    <string name="copyright">2024</string>
+    <string name="only_uth">Unicamente para estudiantes y personal de UTH</string>
+</resources>

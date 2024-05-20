@@ -1,5 +1,9 @@
 <resources>
     <string name="app_name">Comandas</string>
-    <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <!--Login fragment-->
+    <string name="sign_int_with_google">Sign in with Google</string>
+    <string name="copyright">2024</string>
+    <string name="only_uth">Only for stundents and faculty of UTH</string>
 </resources>
