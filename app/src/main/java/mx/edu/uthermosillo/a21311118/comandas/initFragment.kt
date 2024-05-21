@@ -1,10 +1,11 @@
 package mx.edu.uthermosillo.a21311118.comandas
 
+import android.graphics.Color
 import android.os.Bundle
-import androidx.fragment.app.Fragment
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
+import androidx.fragment.app.Fragment
 import androidx.viewpager2.widget.ViewPager2
 import mx.edu.uthermosillo.a21311118.comandas.adapter.OnboardingAdapter
 import onboarding.FirstFragment

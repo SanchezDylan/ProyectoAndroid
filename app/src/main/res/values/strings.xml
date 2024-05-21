@@ -10,4 +10,11 @@
     <string name="welcome">Welcome!</string>
     <string name="welcome1">Discover a new way to order your favorite food.</string>
     <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="favorite">Order your favorite food!</string>
+    <string name="favoritetext">Quick and easy ordering for your favorite flavors.</string>
+    <string name="rte">Ready Meal!</string>
+    <string name="rte1">Order online and pick up without delays</string>
+
+
 </resources>

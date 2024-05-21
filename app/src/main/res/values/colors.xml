@@ -8,5 +8,6 @@
     <color name="red">#860000</color>
     <color name="green">#009E00</color>
     <color name="background1">#eae2b7</color>
+    <color name="text">#000001</color>
 
 </resources>

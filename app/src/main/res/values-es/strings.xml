@@ -6,5 +6,11 @@
     <string name="welcome">¡Bienvenido!</string>
     <string name="welcome1">Descubre una nueva forma de ordenar tu comida favorita.</string>
     <string name="next">Siguiente</string>
+    <string name="previous">Anterior</string>
+    <string name="favorite">Ordena tu comida favorita!</string>
+    <string name="favoritetext">Ordena de manera rápida y sencilla tus sabores favoritos.</string>
+    <string name="rte">Comida lista!</string>
+    <string name="rte1">Ordena en línea y recoge sin demoras</string>
+
 
 </resources>
