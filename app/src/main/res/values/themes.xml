@@ -11,7 +11,7 @@
         <item name="android:windowTranslucentNavigation">true</item>
         <item name="android:windowLightStatusBar">true</item>
         <item name="android:windowLightNavigationBar">true</item>
-        <item name="android:navigationBarColor">@color/teal</item>
+        <item name="android:navigationBarColor">@android:color/transparent</item>
         <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
     </style>
 
@@ -48,6 +48,9 @@
     </style>
     <style name="bottonwelcome">
 <item name="android:backgroundTint">@color/teal</item>
+    </style>
+
+    <style name="images">
 
     </style>
 

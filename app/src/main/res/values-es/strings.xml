@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="app_name">Comandas</string>
+    <string name="hello_blank_fragment">Hola blank fragment</string>
     <string name="sign_int_with_google">Iniciar sesion con Google</string>
     <string name="copyright">2024</string>
     <string name="only_uth">Unicamente para estudiantes y personal de UTH</string>
@@ -11,6 +13,5 @@
     <string name="favoritetext">Ordena de manera rápida y sencilla tus sabores favoritos.</string>
     <string name="rte">Comida lista!</string>
     <string name="rte1">Ordena en línea y recoge sin demoras</string>
-
-
+    <string name="default_web_client_id">42361345147-epfb9pqnobcp0mv1cjfebrl4b8ek080h.apps.googleusercontent.com</string>
 </resources>

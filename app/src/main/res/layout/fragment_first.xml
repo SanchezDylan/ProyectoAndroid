@@ -18,7 +18,8 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         android:src="@drawable/chefsito"
-        android:contentDescription="Chef cocinando" />
+        android:contentDescription="Chef cocinando"
+        style="images"/>
 
     <TextView
         android:id="@+id/welcome"
@@ -60,6 +61,8 @@
         app:layout_constraintEnd_toEndOf="parent"
         android:layout_marginStart="230dp"
         android:layout_marginEnd="20dp"
+        android:elevation="12dp"
+        android:shadowColor="@color/text"
         style="@style/bottonwelcome"
         />
 

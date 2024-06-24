@@ -49,17 +49,14 @@
                 app:layout_constraintEnd_toEndOf="parent"
                 android:src="@drawable/uth" />
 
-
-            <Button
-                android:id="@+id/signin"
+            <com.google.android.gms.common.SignInButton
+                android:id="@+id/google_sing_in_button"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 app:layout_constraintTop_toBottomOf="@id/login_logo"
                 app:layout_constraintBottom_toTopOf="@id/copyright"
                 app:layout_constraintStart_toStartOf="parent"
-                app:layout_constraintEnd_toEndOf="parent"
-                android:text="@string/sign_int_with_google"
-                style="@style/login_button"/>
+                app:layout_constraintEnd_toEndOf="parent"/>
 
 
             <TextView
@@ -68,7 +65,7 @@
                 android:layout_height="wrap_content"
                 android:text="@string/only_uth"
                 android:layout_marginTop="@dimen/def"
-                app:layout_constraintTop_toBottomOf="@id/signin"
+                app:layout_constraintTop_toBottomOf="@id/google_sing_in_button"
                 app:layout_constraintStart_toStartOf="parent"
                 app:layout_constraintEnd_toEndOf="parent"
                 style="@style/small"/>

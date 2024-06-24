@@ -15,6 +15,7 @@
     <string name="favoritetext">Quick and easy ordering for your favorite flavors.</string>
     <string name="rte">Ready Meal!</string>
     <string name="rte1">Order online and pick up without delays</string>
+    <string name="default_web_client_id">42361345147-epfb9pqnobcp0mv1cjfebrl4b8ek080h.apps.googleusercontent.com</string>
 
 
 </resources>

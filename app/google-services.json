@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "42361345147",
+    "project_id": "coyocoins-dylan",
+    "storage_bucket": "coyocoins-dylan.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:42361345147:android:e16599923272812023fede",
+        "android_client_info": {
+          "package_name": "mx.edu.uthermosillo.a21311118.comandas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "42361345147-epfb9pqnobcp0mv1cjfebrl4b8ek080h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "mx.edu.uthermosillo.a21311118.comandas",
+            "certificate_hash": "7516305e1dd53181b320250f509a5d13fdb7e958"
+          }
+        },
+        {
+          "client_id": "42361345147-epfb9pqnobcp0mv1cjfebrl4b8ek080h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmPqmweQ5iEB7CBDBRpTqfCRMWJTZ5Sx0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "42361345147-epfb9pqnobcp0mv1cjfebrl4b8ek080h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

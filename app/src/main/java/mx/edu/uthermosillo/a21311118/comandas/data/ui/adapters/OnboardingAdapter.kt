@@ -1,4 +1,4 @@
-package mx.edu.uthermosillo.a21311118.comandas.adapter
+package mx.edu.uthermosillo.a21311118.comandas.data.ui.adapters
 
 import androidx.fragment.app.Fragment
 import androidx.fragment.app.FragmentManager
