@@ -1,16 +1,20 @@
 package mx.edu.uthermosillo.a21311118.comandas
 
+import android.content.Intent
 import android.os.Bundle
 import androidx.fragment.app.Fragment
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
+import android.widget.Button
 import android.widget.ImageView
 import android.widget.TextView
 import com.google.firebase.auth.FirebaseAuth
 import com.google.firebase.auth.FirebaseUser
 import mx.edu.uthermosillo.a21311118.comandas.databinding.FragmentDashboardBinding
 import com.bumptech.glide.Glide
+import mx.edu.uthermosillo.a21311118.comandas.data.ui.views.activities.AuthActivity
+import mx.edu.uthermosillo.a21311118.comandas.data.ui.views.activities.MainActivity
 
 // TODO: Rename parameter arguments, choose names that match
 // the fragment initialization parameters, e.g. ARG_ITEM_NUMBER
@@ -56,6 +60,15 @@ class DashboardFragment : Fragment() {
             Glide.with(this)
                 .load(userPhotoUrl)
                 .into(imageView)
+
+            view.findViewById<Button>(R.id.button3).setOnClickListener {
+                FirebaseAuth.getInstance().signOut()
+                // Aquí puedes navegar de vuelta a la pantalla de inicio de sesión después de desloguearte
+                val loginFragment = LoginFragment()
+                val intent = Intent(activity, AuthActivity::class.java)
+                startActivity(intent)
+                requireActivity().finish()
+            }
         }
 
 
